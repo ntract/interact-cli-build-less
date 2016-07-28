@@ -1,0 +1,10 @@
+{
+  "name": "interact-cli-plugins-build-less",
+  "license": "GPL-3",
+  "npm": {
+    "less": "*"
+  },
+  "main": [
+   "index.js"
+  ]
+}
