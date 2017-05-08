@@ -1,5 +1,5 @@
 {
-  "name": "ntract-cli-plugins-build-less",
+  "name": "ntract-cli-build-less",
   "license": "GPL-3",
   "npm": {
     "less": "*"
